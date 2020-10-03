@@ -1,4 +1,5 @@
-# 智慧农林网-后端接口实现
+# zhihuinl-backend
+智慧农林网-后端接口实现
 
 ```bash
 yarn
@@ -8,5 +9,6 @@ yarn
 npm start
 ```
 
-### 技术使用 Node.js + Express + MonggoDb
+## 技术栈
+Node.js + Express + MongoDb
 
